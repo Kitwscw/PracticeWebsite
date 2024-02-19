@@ -6,10 +6,12 @@ body{
     background-color: black;
 }
 h1{
-    color:red;
+    color:#8B0000;
+    font-family: papyrus;
+    text-decoration: line;
 }
 p {
-    color: red;
+    color: #8B0000;
     font-family: papyrus;
 }
 img{
